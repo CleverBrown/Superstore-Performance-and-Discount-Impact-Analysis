@@ -1,4 +1,4 @@
-# Superstore Sales Performance and Discount Impact Analysis
+# Superstore Performance and Discount Impact Analysis
 
 ### Background/Objective
 
