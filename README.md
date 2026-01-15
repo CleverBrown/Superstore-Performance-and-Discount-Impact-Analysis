@@ -11,6 +11,8 @@ Superstore has experienced steady sales volumes over time, but overall profitabi
 - Data Analysis (EDA, Data Segmentation)
 - Data Visualization & Storytelling
 
+![](https://github.com/CleverBrown/Superstore-Performance-and-Discount-Impact-Analysis/blob/main/Superstore.png)
+
 ### Key Performance Indicators (KPIs)
 
 These headline metrics summarize Superstore’s performance during the period analyzed:
