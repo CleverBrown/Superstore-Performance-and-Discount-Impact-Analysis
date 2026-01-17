@@ -1,3 +1,5 @@
+![](https://github.com/CleverBrown/Superstore-Performance-and-Discount-Impact-Analysis/blob/main/Sales.png)
+
 # Superstore Performance and Discount Impact Analysis
 
 ### Background/Objective
